@@ -1,0 +1,45 @@
+/* manga.json V1.0 Rev 0 */
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragonslayer's Regression is Too Perfect, 용살자의 역행이 너무 완벽함",
+  "status": "Ongoing",
+  "author": "Tongbaek",
+  "artist": "Spoon (Story Company)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": "4.8",
+  "synopsis": "Slayer terkuat umat manusia, Ruven, berhasil membunuh naga terakhir yang menghancurkan dunia, namun ia juga kehilangan nyawanya di akhir pertempuran. Mengira semuanya telah berakhir, ia terbangun kembali ke masa 20 tahun lalu saat dirinya masih menjadi seorang kadet akademi militer yang lemah. Dengan pengetahuan masa depan dan kemampuan rahasia pembunuh naga yang masih utuh, Ruven bertekad untuk mengubah takdir dan menciptakan regresi yang sempurna demi menyelamatkan masa depan.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Prologue: Akhir dan Awal yang Baru",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Kadet Lemah di Akademi Terkenal",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/005.jpg"
+      ]
+    }
+  ]
+}
