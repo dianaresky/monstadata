@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Action",
+    "slug": "Action",
+    "cover": "https://via.placeholder.com/300x450/141414/39ff14?text=Action",
+    "chapters": [
+      {
+        "name": "A CADET BECOMES A PROPHET",
+        "downloadUrl": "https://raw.githubusercontent.com/dianaresky/monstadata/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+      },
+      {
+        "name": "GENIUS PRISMATIC MAGE",
+        "downloadUrl": "https://raw.githubusercontent.com/dianaresky/monstadata/main/Action/Genius%20Prismatic%20Mage.cbz"
+      }
+    ]
+  },
+  {
+    "title": "Fantasy",
+    "slug": "Fantasy",
+    "cover": "https://via.placeholder.com/300x450/141414/39ff14?text=Fantasy",
+    "chapters": [
+      {
+        "name": "I AM THE FATED VILLAIN",
+        "downloadUrl": "https://raw.githubusercontent.com/dianaresky/monstadata/main/Fantasy/I%20Am%20the%20Fated%20Villain.cbz"
+      }
+    ]
+  }
+]
